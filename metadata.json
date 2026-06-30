@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Justice Digital Desk",
+  "description": "A premium digital office for legal services, advocate profile, online consultations, and location tracking for client-attorney excellence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
